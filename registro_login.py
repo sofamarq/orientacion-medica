@@ -72,18 +72,19 @@ def login():
                 st.error("El usuario ya está registrado.")
                 return
 
-            supabase.table("usuarios").insert({
-                "id": dni_registro,
-                "nombre": nombre,
-                "apellido": apellido,
-                "fecha_nacimiento": str(fecha_nacimiento),
-                "genero": genero,
-                "cobertura": cobertura,
-                "numero_afiliado": numero_afiliado,
-                "password": hash_password(password_registro)
-            }).execute()
-
-            st.success("✅ Registro exitoso. Redirigiendo al login...")
-            time.sleep(3)
-            st.session_state.vista_actual = "Inicio"
-            st.rerun()
+            if not existe.data:
+                supabase.table("usuarios").insert({
+                    "id": dni_registro,
+                    "nombre": nombre,
+                    "apellido": apellido,
+                    "fecha_nacimiento": str(fecha_nacimiento),
+                    "genero": genero,
+                    "cobertura": cobertura,
+                    "numero_afiliado": numero_afiliado,
+                    "password": hash_password(password_registro)
+                }).execute()
+    
+                st.success("✅ Registro exitoso. Redirigiendo al login...")
+                time.sleep(3)
+                st.session_state.vista_actual = "Inicio"
+                st.rerun()
