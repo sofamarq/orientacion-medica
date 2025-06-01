@@ -86,4 +86,5 @@ def login():
                 }).execute()
     
                 st.success("✅ Registro exitoso. Ya podes iniciar sesión!")
+                time.sleep(2)
                 st.rerun()
