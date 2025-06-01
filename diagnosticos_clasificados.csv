@@ -1,0 +1,948 @@
+diagnostico,condition_id,especialidad,nivel_urgencia
+Achalasia,c_1,Clínica Médica,Consulta
+Atopic dermatitis,c_2,Dermatología,Consulta
+Allergic conjunctivitis,c_3,Clínica Médica,Consulta
+Allergic rhinitis,c_4,Otorrinolaringología,Consulta
+Alcohol use disorder,c_5,Clínica Médica,Consulta
+Anorexia nervosa,c_7,Salud Mental,Consulta
+Asthma,c_8,Neumonología,Consulta
+Anogenital warts,c_12,Clínica Médica,Consulta
+Warts,c_13,Clínica Médica,Consulta
+Bulimia nervosa,c_14,Salud Mental,Consulta
+Celiac disease,c_15,Gastroenterología,Consulta
+Alzheimer's disease,c_16,Clínica Médica,Consulta
+Crohn's disease,c_17,Clínica Médica,Consulta
+Parkinson's disease,c_19,Neurología,Consulta
+Peptic ulcer,c_20,Clínica Médica,Consulta
+Ulcerative colitis,c_23,Gastroenterología,Consulta
+Melanoma,c_25,Clínica Médica,Consulta
+Depressive disorder,c_26,Salud Mental,Consulta
+Gout,c_27,Clínica Médica,Consulta
+Essential tremor,c_29,Clínica Médica,Consulta
+Degenerative disc disease of the lumbar and sacral spine,c_30,Clínica Médica,Consulta
+Endometriosis,c_31,Ginecología,Consulta
+Pulmonary tuberculosis,c_32,Clínica Médica,Consulta
+Influenza,c_33,Clínica Médica,Consulta
+Gilbert's syndrome,c_34,Clínica Médica,Consulta
+Hypotension,c_35,Clínica Médica,Consulta
+Infectious arthritis,c_36,Reumatología,Consulta
+Nephrolithiasis,c_37,Nefrología,Consulta
+Cholecystolithiasis,c_38,Clínica Médica,Consulta
+Cluster headaches,c_39,Neurología,Consulta
+Mild cognitive impairment,c_41,Clínica Médica,Consulta
+Impetigo contagiosa,c_42,Clínica Médica,Consulta
+Psoriasis,c_43,Dermatología,Consulta
+Menopause,c_45,Clínica Médica,Consulta
+Myasthenia gravis,c_46,Clínica Médica,Consulta
+Atrial fibrillation,c_48,Clínica Médica,Consulta
+Migraine,c_49,Neurología,Consulta
+Hypertension,c_50,Cardiología,Consulta
+Hyperparathyroidism,c_51,Endocrinología,Consulta
+Hyperthyroidism,c_52,Endocrinología,Consulta
+Urge urinary incontinence,c_54,Urología,Consulta
+Tension-type headaches,c_55,Neurología,Consulta
+Addison's disease,c_57,Clínica Médica,Consulta
+Hypoparathyroidism,c_58,Endocrinología,Consulta
+Hypothyroidism,c_59,Endocrinología,Consulta
+Hemolytic anemia,c_60,Hematología,Consulta
+Vitamin B12 deficiency anemia,c_61,Hematología,Consulta
+Iron deficiency anemia,c_62,Hematología,Consulta
+Nicotine dependence,c_63,Clínica Médica,Consulta
+Lung cancer,c_64,Neumonología,Consulta
+Malignant tumor of stomach,c_66,Clínica Médica,Consulta
+Oral herpes,c_67,Clínica Médica,Consulta
+Chickenpox,c_68,Clínica Médica,Consulta
+Osteoporosis,c_69,Clínica Médica,Consulta
+Acute lymphoblastic leukemia,c_70,Hematología,Consulta
+Acute myeloid leukemia,c_71,Hematología,Consulta
+Acute bronchitis,c_72,Neumonología,Consulta
+Acute pancreatitis,c_73,Gastroenterología,Urgente
+Epilepsy,c_74,Neurología,Consulta
+Periodontitis,c_75,Clínica Médica,Consulta
+Chronic obstructive pulmonary disease,c_76,Clínica Médica,Consulta
+Acute urticaria,c_77,Dermatología,Consulta
+Shingles,c_78,Clínica Médica,Consulta
+Dental caries,c_79,Clínica Médica,Consulta
+Fatigue,c_80,Clínica Médica,Consulta
+Benign prostatic hyperplasia,c_81,Urología,Consulta
+Chronic lymphocytic leukemia,c_82,Hematología,Consulta
+Chronic myelogenous leukemia,c_83,Hematología,Consulta
+Chronic venous insufficiency,c_84,Clínica Médica,Consulta
+Peripheral vascular disease,c_85,Clínica Médica,Consulta
+Chronic pancreatitis,c_86,Gastroenterología,Urgente
+Common cold,c_87,Clínica Médica,Consulta
+Endometrial tumor,c_88,Clínica Médica,Consulta
+Ovarian tumor,c_89,Clínica Médica,Consulta
+Colon cancer,c_90,Gastroenterología,Consulta
+Laryngeal cancer,c_91,Clínica Médica,Consulta
+Malignant tumor of kidney,c_92,Nefrología,Consulta
+Breast cancer,c_93,Clínica Médica,Consulta
+Esophageal cancer,c_94,Gastroenterología,Consulta
+Vulvar cancer,c_95,Clínica Médica,Consulta
+Thyroid cancer,c_97,Endocrinología,Consulta
+Pancreatic cancer,c_98,Gastroenterología,Consulta
+Liver cancer,c_99,Gastroenterología,Consulta
+Reactive arthritis,c_100,Reumatología,Consulta
+Gastroesophageal reflux disease,c_101,Gastroenterología,Consulta
+Sciatica,c_102,Clínica Médica,Consulta
+Trichomoniasis,c_103,Clínica Médica,Consulta
+Rheumatoid arthritis,c_104,Reumatología,Consulta
+Sarcoidosis,c_105,Clínica Médica,Consulta
+Multiple sclerosis,c_108,Neurología,Consulta
+Systemic lupus erythematosus,c_109,Reumatología,Consulta
+Bartholin's cyst,c_110,Clínica Médica,Consulta
+Acne,c_111,Dermatología,Consulta
+Systemic scleroderma,c_112,Reumatología,Consulta
+Diverticulosis,c_113,Clínica Médica,Consulta
+Ischemic stroke,c_114,Neurología,Emergencia
+Stress urinary incontinence,c_116,Urología,Consulta
+Obsessive-compulsive disorder,c_118,Clínica Médica,Consulta
+Gingivitis,c_120,Clínica Médica,Consulta
+Acute viral pharyngitis,c_121,Otorrinolaringología,Consulta
+Prostatitis,c_122,Urología,Consulta
+Acute laryngitis,c_123,Otorrinolaringología,Consulta
+Pulpitis,c_124,Clínica Médica,Consulta
+Orchitis and epididymitis,c_125,Clínica Médica,Consulta
+Pericarditis,c_126,Clínica Médica,Consulta
+Pneumonia,c_127,Neumonología,Consulta
+Bacterial vaginitis,c_128,Clínica Médica,Consulta
+Cervicitis,c_129,Clínica Médica,Consulta
+Acute otitis media,c_130,Otorrinolaringología,Consulta
+Otitis externa,c_131,Otorrinolaringología,Consulta
+Appendicitis,c_132,Clínica Médica,Urgente
+Balanoposthitis,c_134,Clínica Médica,Consulta
+Superficial thrombophlebitis,c_135,Hematología,Consulta
+Pulmonary embolism,c_136,Clínica Médica,Emergencia
+Hangover,c_137,Clínica Médica,Consulta
+Food poisoning,c_138,Toxicología,Urgente
+Impacted wisdom tooth,c_139,Clínica Médica,Consulta
+Myocardial infarction,c_140,Cardiología,Emergencia
+Cushing's syndrome,c_141,Endocrinología,Consulta
+Irritable bowel syndrome,c_142,Gastroenterología,Consulta
+Premenstrual syndrome,c_143,Ginecología,Consulta
+Sjögren's syndrome,c_144,Clínica Médica,Consulta
+Polycystic ovary syndrome,c_145,Ginecología,Consulta
+Dental pulp gangrene,c_146,Clínica Médica,Consulta
+Hemorrhoids,c_147,Clínica Médica,Consulta
+Deep vein thrombosis,c_148,Hematología,Consulta
+Ankylosing spondylitis,c_149,Clínica Médica,Consulta
+Trigeminal neuralgia,c_150,Clínica Médica,Consulta
+Temporomandibular joint disorders,c_152,Traumatología,Consulta
+Gonorrhea,c_159,Clínica Médica,Consulta
+Pelvic inflammatory disease,c_160,Clínica Médica,Consulta
+Carbon monoxide poisoning,c_161,Toxicología,Urgente
+Labyrinthitis,c_162,Clínica Médica,Consulta
+Acromegaly,c_163,Clínica Médica,Consulta
+Ménétrier's disease,c_164,Clínica Médica,Consulta
+Giardiasis,c_165,Clínica Médica,Consulta
+Enterobiasis,c_166,Clínica Médica,Consulta
+Acute porphyria,c_168,Clínica Médica,Consulta
+Erysipelas,c_169,Clínica Médica,Consulta
+Stye,c_170,Clínica Médica,Consulta
+Chalazion,c_171,Clínica Médica,Consulta
+Conjunctivitis,c_172,Clínica Médica,Consulta
+Corneal abrasion,c_174,Clínica Médica,Consulta
+Corneal ulceration,c_175,Clínica Médica,Consulta
+Cataract,c_176,Oftalmología,Consulta
+Multiple myeloma,c_179,Clínica Médica,Consulta
+Chronic kidney disease,c_180,Nefrología,Consulta
+Hodgkin lymphoma,c_181,Hematología,Consulta
+Panic disorder,c_183,Clínica Médica,Consulta
+Acute cystitis,c_184,Clínica Médica,Consulta
+Bladder cancer,c_185,Urología,Consulta
+Diverticulitis,c_186,Clínica Médica,Consulta
+Cholinergic crisis,c_187,Clínica Médica,Consulta
+Cystic fibrosis,c_188,Clínica Médica,Consulta
+Rubella,c_189,Clínica Médica,Consulta
+Disulfiram-like reaction,c_190,Clínica Médica,Consulta
+Acute hypnotic toxicity,c_191,Toxicología,Consulta
+Mumps,c_192,Clínica Médica,Consulta
+Acute opioid toxicity,c_193,Toxicología,Consulta
+Acute stimulant overdose,c_194,Toxicología,Consulta
+Improper use of sleeping pills and sedatives,c_195,Clínica Médica,Consulta
+Hypopituitarism,c_196,Clínica Médica,Consulta
+Antiphospholipid syndrome,c_198,Clínica Médica,Consulta
+Infectious mononucleosis,c_200,Clínica Médica,Consulta
+Type 1 Neurofibromatosis,c_202,Urología,Consulta
+Ménière's disease,c_203,Clínica Médica,Consulta
+Wilson's disease,c_205,Clínica Médica,Consulta
+Infective endocarditis,c_206,Clínica Médica,Consulta
+Pheochromocytoma,c_207,Clínica Médica,Consulta
+Tetany,c_208,Clínica Médica,Consulta
+Raynaud's disease,c_209,Clínica Médica,Consulta
+Myocarditis,c_210,Clínica Médica,Consulta
+Carpal tunnel syndrome,c_212,Clínica Médica,Consulta
+Zollinger-Ellison syndrome,c_213,Clínica Médica,Consulta
+Visceral leishmaniasis,c_214,Clínica Médica,Consulta
+Cholecystitis,c_215,Clínica Médica,Urgente
+Uveitis,c_216,Clínica Médica,Consulta
+Spinal osteoarthritis,c_218,Reumatología,Consulta
+Hand osteoarthritis,c_219,Reumatología,Consulta
+Knee osteoarthritis,c_220,Reumatología,Consulta
+Hip osteoarthritis,c_221,Reumatología,Consulta
+Ankle osteoarthritis,c_222,Reumatología,Consulta
+Foot osteoarthritis,c_223,Reumatología,Consulta
+Generalized anxiety disorder,c_225,Salud Mental,Consulta
+Alcohol withdrawal syndrome,c_227,Clínica Médica,Consulta
+Typhoid fever,c_234,Clínica Médica,Consulta
+Brucellosis,c_235,Clínica Médica,Consulta
+Tularemia,c_236,Clínica Médica,Consulta
+Relapsing fever,c_237,Clínica Médica,Consulta
+Exanthematic typhus,c_238,Hematología,Consulta
+Rocky Mountain spotted fever,c_239,Clínica Médica,Consulta
+Q fever,c_241,Clínica Médica,Consulta
+Cat-scratch disease,c_242,Clínica Médica,Consulta
+American trypanosomiasis,c_243,Clínica Médica,Consulta
+Yellow fever,c_244,Clínica Médica,Consulta
+Dengue fever,c_245,Clínica Médica,Consulta
+Lassa fever,c_246,Clínica Médica,Consulta
+Glossitis,c_247,Clínica Médica,Consulta
+Obstructive jaundice,c_248,Clínica Médica,Consulta
+Acute streptococcal pharyngitis,c_249,Otorrinolaringología,Consulta
+Polycythemia vera,c_251,Clínica Médica,Consulta
+Rift Valley fever,c_252,Clínica Médica,Consulta
+Cholera,c_254,Clínica Médica,Consulta
+Tetanus,c_255,Clínica Médica,Consulta
+Leptospirosis,c_256,Clínica Médica,Consulta
+Scrub typhus,c_257,Clínica Médica,Consulta
+Dementia,c_260,Clínica Médica,Consulta
+Psittacosis,c_263,Clínica Médica,Consulta
+Granulomatosis with polyangiitis,c_264,Clínica Médica,Consulta
+Nephrotic syndrome,c_265,Nefrología,Consulta
+Churg-Strauss syndrome,c_267,Clínica Médica,Consulta
+Chronic sinusitis,c_269,Otorrinolaringología,Consulta
+Adjustment disorder,c_270,Clínica Médica,Consulta
+Plague,c_271,Clínica Médica,Consulta
+Bipolar disorder,c_273,Salud Mental,Consulta
+Anal fissure,c_275,Clínica Médica,Consulta
+Anal cancer,c_276,Clínica Médica,Consulta
+Sedatives withdrawal syndrome,c_278,Clínica Médica,Consulta
+Pyelonephritis,c_284,Nefrología,Consulta
+Measles,c_286,Clínica Médica,Consulta
+Horner's syndrome,c_287,Clínica Médica,Consulta
+Pulmonary edema,c_288,Clínica Médica,Consulta
+Ascariasis,c_289,Clínica Médica,Consulta
+Hookworm infection,c_290,Infectología,Urgente
+Amyloidosis,c_291,Clínica Médica,Consulta
+Urethritis,c_292,Clínica Médica,Consulta
+Herbicide poisoning,c_294,Toxicología,Urgente
+Insecticide poisoning,c_295,Toxicología,Urgente
+Acute anticholinergic syndrome,c_296,Clínica Médica,Consulta
+Dehydration,c_298,Clínica Médica,Consulta
+Post-traumatic stress disorder,c_299,Traumatología,Consulta
+Death cap poisoning,c_303,Toxicología,Urgente
+Acetaminophen poisoning,c_306,Toxicología,Urgente
+Salicylate poisoning,c_307,Toxicología,Urgente
+Social anxiety disorder,c_308,Salud Mental,Consulta
+Postpartum depression,c_309,Salud Mental,Consulta
+Paranoid schizophrenia,c_310,Salud Mental,Consulta
+Leriche's syndrome,c_313,Clínica Médica,Consulta
+Guillain-Barré syndrome,c_314,Clínica Médica,Consulta
+Dermatomyositis,c_315,Dermatología,Consulta
+Vasculitis,c_316,Reumatología,Consulta
+Polymyositis,c_317,Clínica Médica,Consulta
+Depressive disorder with psychotic features,c_318,Salud Mental,Consulta
+Seasonal affective disorder,c_320,Clínica Médica,Consulta
+Paget's disease of bone,c_321,Traumatología,Consulta
+Pernicious anemia,c_324,Hematología,Consulta
+Hemochromatosis,c_328,Clínica Médica,Consulta
+Tumor lysis syndrome,c_330,Clínica Médica,Consulta
+Acute rheumatic fever,c_331,Clínica Médica,Consulta
+Increased intracranial pressure,c_332,Clínica Médica,Consulta
+Brain tumor,c_333,Clínica Médica,Consulta
+Pituitary tumor,c_334,Clínica Médica,Consulta
+Prostate tumor,c_335,Urología,Consulta
+Rickets,c_336,Clínica Médica,Consulta
+Osteomalacia,c_337,Clínica Médica,Consulta
+Korsakoff's syndrome,c_347,Clínica Médica,Consulta
+Organic mental disorder,c_350,Salud Mental,Consulta
+Post-concussion syndrome,c_351,Clínica Médica,Consulta
+Pre-eclampsia,c_369,Clínica Médica,Consulta
+Specific phobia,c_370,Clínica Médica,Consulta
+Hemorrhagic anemia,c_371,Hematología,Consulta
+Anemia of chronic disease,c_372,Hematología,Consulta
+Glomerulonephritis,c_374,Nefrología,Consulta
+Neurasthenia,c_375,Clínica Médica,Consulta
+Wernicke's encephalopathy,c_376,Clínica Médica,Consulta
+Transient ischemic attack,c_378,Clínica Médica,Consulta
+Cerebellar stroke,c_379,Neurología,Emergencia
+Carotid artery dissection,c_381,Clínica Médica,Emergencia
+Aplastic anemia,c_382,Hematología,Consulta
+Vertebrobasilar insufficiency,c_384,Clínica Médica,Consulta
+Von Willebrand disease,c_388,Clínica Médica,Consulta
+Pseudobulbar palsy,c_390,Clínica Médica,Consulta
+Vascular hemorrhagic diathesis,c_391,Clínica Médica,Consulta
+Thrombocytopathy,c_392,Hematología,Consulta
+Amyotrophic lateral sclerosis,c_396,Clínica Médica,Consulta
+Progressive supranuclear palsy,c_397,Otorrinolaringología,Consulta
+Diabetes mellitus type 1,c_404,Endocrinología,Consulta
+Diabetes mellitus type 2,c_405,Endocrinología,Consulta
+Arginine vasopressin disorder,c_407,Clínica Médica,Consulta
+Insulinoma,c_408,Clínica Médica,Consulta
+Malaria,c_413,Clínica Médica,Consulta
+Carcinoid syndrome,c_415,Clínica Médica,Consulta
+Essential thrombocytosis,c_421,Hematología,Consulta
+Myelofibrosis,c_423,Clínica Médica,Consulta
+Heat and sun-related illness,c_424,Clínica Médica,Consulta
+Fasciolosis,c_426,Clínica Médica,Consulta
+Graves' disease,c_427,Clínica Médica,Consulta
+Hashimoto's thyroiditis,c_428,Endocrinología,Consulta
+Thyrotoxic crisis with thyrotoxicosis,c_429,Toxicología,Consulta
+Acute thyroiditis,c_430,Endocrinología,Consulta
+De Quervain's thyroiditis,c_431,Endocrinología,Consulta
+Botulism,c_432,Clínica Médica,Consulta
+Trichinosis,c_433,Clínica Médica,Consulta
+Cysticercosis,c_434,Clínica Médica,Consulta
+Echinococcosis,c_435,Clínica Médica,Consulta
+Toxocariasis,c_436,Clínica Médica,Consulta
+Taeniasis,c_437,Clínica Médica,Consulta
+Trichuriasis,c_438,Clínica Médica,Consulta
+Diabetic neuropathy,c_439,Neurología,Consulta
+Hepatic encephalopathy,c_443,Hepatología,Consulta
+Paroxysmal nocturnal hemoglobinuria,c_445,Clínica Médica,Consulta
+Gitelman syndrome,c_447,Clínica Médica,Consulta
+Conn's syndrome,c_449,Clínica Médica,Consulta
+Takayasu's disease,c_452,Clínica Médica,Consulta
+Seborrheic dermatitis,c_453,Dermatología,Consulta
+Polyarteritis nodosa,c_458,Clínica Médica,Consulta
+Temporal giant cell arteritis,c_459,Clínica Médica,Consulta
+Hypertensive crisis,c_461,Clínica Médica,Consulta
+Hypertensive encephalopathy,c_462,Clínica Médica,Consulta
+IgA vasculitis,c_463,Reumatología,Consulta
+Goodpasture's syndrome,c_464,Clínica Médica,Consulta
+High altitude sickness,c_465,Clínica Médica,Consulta
+Small intestinal bacterial overgrowth,c_466,Gastroenterología,Consulta
+Facial nerve palsy,c_467,Clínica Médica,Consulta
+Ramsay Hunt syndrome type II,c_468,Clínica Médica,Consulta
+Vestibulocochlear nerve damage,c_470,Otorrinolaringología,Consulta
+Cerebellopontine angle syndrome,c_471,Clínica Médica,Consulta
+Hepatitis A,c_477,Gastroenterología,Consulta
+Acute hepatitis B,c_478,Gastroenterología,Consulta
+VIPoma,c_480,Clínica Médica,Consulta
+Autoimmune hepatitis,c_485,Gastroenterología,Consulta
+Primary biliary cholangitis,c_486,Clínica Médica,Consulta
+Primary sclerosing cholangitis,c_488,Clínica Médica,Consulta
+Idiopathic pulmonary fibrosis,c_489,Clínica Médica,Consulta
+Pulmonary hypertension,c_493,Cardiología,Consulta
+Chronic intestinal ischemia,c_494,Gastroenterología,Consulta
+Esophageal diverticula,c_496,Gastroenterología,Consulta
+Prinzmetal's angina,c_497,Cardiología,Consulta
+Cirrhosis of the liver,c_503,Gastroenterología,Consulta
+Syndrome of inappropriate antidiuretic hormone secretion,c_505,Endocrinología,Consulta
+Acute liver failure,c_507,Gastroenterología,Emergencia
+Prerenal acute renal failure,c_508,Nefrología,Emergencia
+Microscopic polyangiitis,c_510,Clínica Médica,Consulta
+Mixed connective tissue disease,c_511,Clínica Médica,Consulta
+Mastocytosis,c_513,Clínica Médica,Consulta
+Hemophagocytic lymphohistiocytosis,c_514,Clínica Médica,Consulta
+Gastritis,c_515,Gastroenterología,Consulta
+Testicular cancer,c_519,Clínica Médica,Consulta
+Intercostal neuralgia,c_520,Clínica Médica,Consulta
+Shigellosis,c_521,Clínica Médica,Consulta
+Amebiasis,c_522,Clínica Médica,Consulta
+Testicular torsion,c_523,Clínica Médica,Emergencia
+Hydrocele testis,c_525,Clínica Médica,Consulta
+Acute mastoiditis,c_526,Clínica Médica,Consulta
+Behçet's disease,c_531,Clínica Médica,Consulta
+Gestational diabetes,c_532,Obstetricia,Consulta
+Osteomyelitis,c_533,Clínica Médica,Consulta
+Genital herpes,c_534,Clínica Médica,Consulta
+African trypanosomiasis,c_535,Clínica Médica,Consulta
+Prolactin-releasing pituitary tumor,c_543,Clínica Médica,Consulta
+Thyrotropin releasing pituitary adenoma,c_546,Clínica Médica,Consulta
+Abducens nerve palsy,c_547,Clínica Médica,Consulta
+Trochlear nerve palsy,c_548,Otorrinolaringología,Consulta
+Oculomotor nerve palsy,c_549,Clínica Médica,Consulta
+Inguinal hernia,c_550,Clínica Médica,Consulta
+Incarcerated inguinal hernia,c_551,Clínica Médica,Consulta
+Lateral medullary syndrome,c_553,Clínica Médica,Consulta
+Vagus nerve palsy,c_554,Clínica Médica,Consulta
+Viral meningitis,c_562,Infectología,Urgente
+Bacterial meningitis,c_563,Clínica Médica,Urgente
+Whitlow,c_569,Clínica Médica,Consulta
+Hyperventilation syndrome,c_571,Clínica Médica,Consulta
+Type 2 Neurofibromatosis,c_574,Urología,Consulta
+Mononeuritis multiplex,c_575,Clínica Médica,Consulta
+Degenerative disc disease of the cervical spine,c_576,Clínica Médica,Consulta
+Degenerative disc disease of the thoracic spine,c_577,Clínica Médica,Consulta
+Allergic bronchopulmonary aspergillosis,c_578,Clínica Médica,Consulta
+Rabies,c_579,Clínica Médica,Consulta
+West Nile Virus infection,c_580,Infectología,Urgente
+Non-Hodgkin lymphoma,c_583,Hematología,Consulta
+Limbic encephalitis,c_585,Clínica Médica,Consulta
+Pseudo gout,c_587,Clínica Médica,Consulta
+Sickle cell anemia,c_588,Hematología,Consulta
+Scabies,c_589,Clínica Médica,Consulta
+Hepatic abscess,c_590,Hepatología,Urgente
+Folate-deficiency anemia,c_592,Hematología,Consulta
+Retinopathy,c_593,Clínica Médica,Consulta
+Retinal detachment,c_596,Oftalmología,Consulta
+Thrombotic thrombocytopenic purpura,c_597,Hematología,Consulta
+Fibromyalgia,c_598,Clínica Médica,Consulta
+Vestibular neuronitis,c_599,Urología,Consulta
+Hemolytic-uremic syndrome,c_606,Clínica Médica,Consulta
+Cavernous sinus thrombosis,c_614,Otorrinolaringología,Consulta
+Superior vena cava syndrome,c_616,Clínica Médica,Consulta
+Pancoast tumor,c_617,Clínica Médica,Consulta
+Thoracic outlet syndrome,c_618,Clínica Médica,Consulta
+Methanol poisoning,c_619,Toxicología,Urgente
+Medulloblastoma,c_620,Clínica Médica,Consulta
+Alcoholic cerebellar degeneration,c_622,Clínica Médica,Consulta
+Ectopic pregnancy,c_627,Obstetricia,Consulta
+Immune thrombocytopenia,c_628,Hematología,Consulta
+Pediculosis capitis,c_633,Clínica Médica,Consulta
+Diabetic ketoacidosis,c_634,Clínica Médica,Consulta
+Metabolic dysfunction-associated steatotic liver disease,c_644,Gastroenterología,Consulta
+Sepsis,c_645,Infectología,Emergencia
+Tick-borne encephalitis,c_648,Clínica Médica,Consulta
+Cardiac tamponade,c_649,Clínica Médica,Consulta
+Peritonitis,c_660,Clínica Médica,Consulta
+Pneumothorax,c_661,Clínica Médica,Emergencia
+Stable angina pectoris,c_663,Cardiología,Consulta
+Unstable angina pectoris,c_664,Cardiología,Consulta
+Acute HIV infection,c_665,Infectología,Urgente
+Non-allergic non-infectious rhinitis,c_666,Otorrinolaringología,Consulta
+Alcohol intoxication,c_667,Toxicología,Urgente
+Chronic fatigue syndrome,c_668,Clínica Médica,Consulta
+Chronic tonsillitis,c_669,Otorrinolaringología,Consulta
+Contact dermatitis,c_670,Dermatología,Consulta
+Encephalitis,c_671,Clínica Médica,Consulta
+Concussion,c_672,Clínica Médica,Consulta
+Sudden sensorineural hearing loss,c_673,Fonoaudiología,Consulta
+Chronic constipation,c_674,Clínica Médica,Consulta
+Scoliosis,c_675,Clínica Médica,Consulta
+Scarlet fever,c_676,Clínica Médica,Consulta
+Cardiogenic shock,c_677,Cardiología,Emergencia
+Brain abscess,c_680,Clínica Médica,Urgente
+Presbycusis,c_681,Clínica Médica,Consulta
+Subarachnoid hemorrhage,c_685,Clínica Médica,Emergencia
+Peritonsillar abscess,c_686,Clínica Médica,Urgente
+Respiratory diphtheria,c_687,Neumonología,Consulta
+Ear barotrauma,c_688,Traumatología,Consulta
+Sprained ankle,c_689,Traumatología,Consulta
+Intestinal obstruction,c_694,Gastroenterología,Emergencia
+Portal hypertension,c_695,Cardiología,Consulta
+Acute intestinal ischemia,c_697,Gastroenterología,Consulta
+Oral candidiasis,c_698,Clínica Médica,Consulta
+Anaphylaxis,c_700,Clínica Médica,Emergencia
+Acute upper gastrointestinal bleeding,c_703,Gastroenterología,Consulta
+Clostridium difficile-associated disease,c_704,Clínica Médica,Consulta
+Acute lower gastrointestinal hemorrhage,c_705,Gastroenterología,Emergencia
+Antibiotic associated diarrhea,c_708,Gastroenterología,Consulta
+Hemorrhagic stroke,c_709,Neurología,Emergencia
+Nausea and vomiting in pregnancy,c_710,Obstetricia,Consulta
+Obstructive sleep apnea,c_711,Clínica Médica,Consulta
+Bursitis,c_712,Clínica Médica,Consulta
+Angioedema,c_715,Clínica Médica,Consulta
+Knee bursitis,c_720,Clínica Médica,Consulta
+Insomnia,c_721,Clínica Médica,Consulta
+"Furuncles, carbuncles and cutaneous abscesses",c_723,Clínica Médica,Urgente
+Pertussis,c_724,Clínica Médica,Consulta
+Lactational mastitis,c_727,Clínica Médica,Consulta
+Proctitis,c_728,Clínica Médica,Consulta
+Toxoplasmosis,c_729,Clínica Médica,Consulta
+Vulvovaginal candidiasis,c_732,Clínica Médica,Consulta
+Goiter,c_734,Clínica Médica,Consulta
+Lactose intolerance,c_735,Clínica Médica,Consulta
+Fibrocystic breasts,c_739,Clínica Médica,Consulta
+Vitiligo,c_743,Clínica Médica,Consulta
+Costochondritis,c_746,Clínica Médica,Consulta
+Restless legs syndrome,c_748,Clínica Médica,Consulta
+Bartholin's abscess,c_751,Clínica Médica,Urgente
+Diabetic nephropathy,c_753,Nefrología,Consulta
+Depersonalization-derealization disorder,c_754,Clínica Médica,Consulta
+Splenic injury,c_755,Traumatología,Consulta
+Dilated cardiomyopathy,c_759,Cardiología,Consulta
+Abdominal aortic aneurysm,c_764,Clínica Médica,Consulta
+Thoracic aortic aneurysm,c_765,Clínica Médica,Consulta
+Secondary syphilis,c_766,Clínica Médica,Consulta
+Varicocele,c_767,Clínica Médica,Consulta
+Blepharitis,c_769,Clínica Médica,Consulta
+Diabetic retinopathy,c_771,Clínica Médica,Consulta
+Perimenopause,c_772,Clínica Médica,Consulta
+Tertiary syphilis,c_774,Clínica Médica,Consulta
+Primary syphilis,c_775,Clínica Médica,Consulta
+Fibroadenoma of breast,c_778,Clínica Médica,Consulta
+Nose injury,c_780,Traumatología,Consulta
+Tinea versicolor,c_786,Clínica Médica,Consulta
+Non-melanoma skin cancer,c_797,Dermatología,Consulta
+Pneumocystis jirovecii pneumonia,c_798,Neumonología,Consulta
+Nasolacrimal duct obstruction,c_799,Clínica Médica,Emergencia
+Non-lactational mastitis,c_801,Clínica Médica,Consulta
+Alopecia,c_802,Dermatología,Consulta
+Achilles tendinitis,c_803,Clínica Médica,Consulta
+Achilles tendon rupture,c_806,Clínica Médica,Emergencia
+Earwax blockage,c_808,Otorrinolaringología,Consulta
+Nasal septum deviation,c_810,Otorrinolaringología,Consulta
+Cruciate ligament injury,c_811,Traumatología,Consulta
+Rotavirus infection,c_812,Infectología,Urgente
+Flatfoot,c_814,Clínica Médica,Consulta
+Functional dyspepsia,c_815,Clínica Médica,Consulta
+Sprained elbow,c_817,Traumatología,Consulta
+Sprained wrist,c_818,Traumatología,Consulta
+Sun allergy,c_819,Inmunología Clínica,Consulta
+Cutaneous cyst,c_820,Clínica Médica,Consulta
+Granuloma annulare,c_824,Clínica Médica,Consulta
+Solar lentigo,c_826,Clínica Médica,Consulta
+Sprained hip,c_828,Traumatología,Consulta
+Sprained knee,c_829,Traumatología,Consulta
+Sprained shoulder,c_830,Traumatología,Consulta
+Food allergy,c_832,Inmunología Clínica,Consulta
+Tinea corporis,c_833,Clínica Médica,Consulta
+Lipoma,c_834,Clínica Médica,Consulta
+Tinea capitis,c_835,Clínica Médica,Consulta
+Ingrown fingernail,c_836,Clínica Médica,Consulta
+Cold urticaria,c_837,Dermatología,Consulta
+Leukoplakia,c_841,Clínica Médica,Consulta
+Frostbite,c_842,Clínica Médica,Consulta
+Diaper dermatitis,c_844,Dermatología,Consulta
+Burn,c_845,Clínica Médica,Consulta
+Corns and callosities,c_847,Clínica Médica,Consulta
+Milia,c_848,Clínica Médica,Consulta
+Rosacea,c_849,Clínica Médica,Consulta
+Tinea pedis,c_857,Clínica Médica,Consulta
+Autism spectrum disorder,c_863,Clínica Médica,Consulta
+Anal fistula,c_866,Clínica Médica,Consulta
+Adenomyosis,c_868,Clínica Médica,Consulta
+Benign paroxysmal positional vertigo,c_871,Clínica Médica,Consulta
+Ampullary cancer,c_874,Clínica Médica,Consulta
+Pelvic organ prolapse,c_880,Clínica Médica,Consulta
+Thoracic aortic dissection,c_884,Clínica Médica,Emergencia
+Abdominal aortic dissection,c_885,Clínica Médica,Emergencia
+Foreign body aspiration,c_887,Clínica Médica,Consulta
+Onychomycosis,c_888,Clínica Médica,Consulta
+Rib fracture,c_889,Traumatología,Urgente
+Decompression sickness,c_891,Clínica Médica,Consulta
+Keratitis,c_892,Clínica Médica,Consulta
+Epicondylitis,c_894,Clínica Médica,Consulta
+Heart valve disease,c_897,Cardiología,Consulta
+Cervical acceleration-deceleration syndrome,c_899,Clínica Médica,Consulta
+Chikungunya virus infection,c_902,Infectología,Urgente
+Zika virus infection,c_906,Infectología,Urgente
+Baker's cyst,c_910,Clínica Médica,Consulta
+Tinea cruris,c_912,Clínica Médica,Consulta
+Functional ovarian cyst,c_915,Clínica Médica,Consulta
+Ganglion cyst,c_917,Clínica Médica,Consulta
+Hyperprolactinemia,c_920,Clínica Médica,Consulta
+Hyperemesis gravidarum,c_921,Clínica Médica,Consulta
+Painful ovulation,c_923,Clínica Médica,Consulta
+Placenta previa,c_924,Clínica Médica,Consulta
+Threatened miscarriage,c_925,Clínica Médica,Consulta
+ACE inhibitor-induced cough,c_926,Clínica Médica,Consulta
+De Quervain syndrome,c_927,Clínica Médica,Consulta
+Atrophic vaginitis,c_928,Clínica Médica,Consulta
+Rotator cuff syndrome,c_931,Clínica Médica,Consulta
+Shoulder bursitis,c_932,Clínica Médica,Consulta
+Olecranon bursitis,c_937,Clínica Médica,Consulta
+Greater trochanteric pain syndrome,c_938,Clínica Médica,Consulta
+Patellofemoral pain syndrome,c_939,Clínica Médica,Consulta
+Endometrial polyp,c_940,Clínica Médica,Consulta
+Ulnar nerve syndrome,c_946,Clínica Médica,Consulta
+Adhesive capsulitis of shoulder,c_947,Clínica Médica,Consulta
+Shoulder impingement syndrome,c_948,Clínica Médica,Consulta
+Peroneal mononeuropathy,c_949,Neurología,Consulta
+Radial nerve neuropathy,c_950,Neurología,Consulta
+Choledocholithiasis,c_952,Clínica Médica,Consulta
+Psoriatic arthritis,c_953,Reumatología,Consulta
+Piriformis syndrome,c_954,Clínica Médica,Consulta
+Hypovolemic shock,c_956,Clínica Médica,Emergencia
+Periorbital cellulitis,c_957,Clínica Médica,Consulta
+Genital injury,c_960,Traumatología,Consulta
+Sunburn,c_962,Clínica Médica,Consulta
+Dental trauma,c_963,Traumatología,Consulta
+"Diarrhea, unspecified",c_965,Gastroenterología,Consulta
+"Vomiting, unspecified",c_966,Gastroenterología,Consulta
+"Disorder of the skin and subcutaneous tissue, unspecified",c_967,Dermatología,Consulta
+"Abdominal pain, unspecified",c_969,Clínica Médica,Consulta
+Suspicious mole,c_970,Clínica Médica,Consulta
+"Cough, unspecified",c_971,Clínica Médica,Consulta
+Asthma exacerbation,c_972,Neumonología,Consulta
+Chronic obstructive pulmonary disease exacerbation,c_973,Clínica Médica,Consulta
+Cervical strain,c_975,Clínica Médica,Consulta
+Ingrown toenail,c_978,Clínica Médica,Consulta
+Nail injury,c_979,Traumatología,Consulta
+Reflex syncope,c_980,Clínica Médica,Consulta
+Mechanical back pain,c_981,Clínica Médica,Consulta
+Labour,c_982,Clínica Médica,Consulta
+Epistaxis,c_983,Clínica Médica,Consulta
+Minor head injury,c_984,Traumatología,Consulta
+Eclampsia,c_985,Clínica Médica,Consulta
+HELLP syndrome,c_986,Clínica Médica,Consulta
+Anorectal abscess,c_988,Clínica Médica,Urgente
+Placental abruption,c_989,Clínica Médica,Consulta
+Intra-amniotic infection,c_990,Infectología,Urgente
+Edema in pregnancy,c_991,Obstetricia,Consulta
+Gambling addiction,c_992,Clínica Médica,Consulta
+Hypertensive urgency,c_995,Clínica Médica,Consulta
+Acute angle-closure glaucoma,c_996,Oftalmología,Emergencia
+Open-angle glaucoma,c_997,Oftalmología,Emergencia
+Dry eye disease,c_998,Oftalmología,Consulta
+Bruxism,c_999,Clínica Médica,Consulta
+Cryptorchidism,c_1000,Clínica Médica,Consulta
+Chronic heart failure,c_1003,Cardiología,Emergencia
+Erythema infectiosum,c_1004,Clínica Médica,Consulta
+Acute heart failure,c_1005,Cardiología,Emergencia
+Hemangioma,c_1006,Clínica Médica,Consulta
+Umbilical hernia,c_1007,Clínica Médica,Consulta
+Miliaria,c_1008,Clínica Médica,Consulta
+Finger fracture,c_1012,Traumatología,Urgente
+Patella fracture,c_1013,Traumatología,Urgente
+Tibiofibular fracture,c_1014,Traumatología,Urgente
+Facial bones fracture,c_1015,Traumatología,Urgente
+Hand bones fracture,c_1016,Traumatología,Urgente
+Skull fracture,c_1018,Traumatología,Urgente
+Foot bones fracture,c_1019,Traumatología,Urgente
+Pelvis fracture,c_1020,Traumatología,Urgente
+Scapula fracture,c_1021,Traumatología,Urgente
+Lumbar vertebra fracture,c_1022,Traumatología,Urgente
+Thoracic vertebra fracture,c_1023,Traumatología,Urgente
+Cervical vertebra fracture,c_1024,Traumatología,Urgente
+Elbow dislocation,c_1025,Clínica Médica,Consulta
+Ankle joint dislocation,c_1026,Traumatología,Consulta
+Wrist dislocation,c_1027,Clínica Médica,Consulta
+Shoulder dislocation,c_1028,Clínica Médica,Consulta
+Finger dislocation,c_1029,Clínica Médica,Consulta
+Knee dislocation,c_1030,Clínica Médica,Consulta
+Hip dislocation,c_1031,Clínica Médica,Consulta
+Toe dislocation,c_1032,Clínica Médica,Consulta
+Sprained finger,c_1034,Traumatología,Consulta
+Forearm contusion,c_1035,Traumatología,Consulta
+"Upper limb injury, unspecified location",c_1036,Traumatología,Consulta
+Shoulder contusion,c_1037,Traumatología,Consulta
+"Lower limb injury, unspecified location",c_1038,Traumatología,Consulta
+Arm contusion,c_1039,Traumatología,Consulta
+"Head or neck injury, unspecified location",c_1040,Traumatología,Consulta
+Elbow contusion,c_1041,Traumatología,Consulta
+Wrist or hand contusion,c_1043,Traumatología,Consulta
+Finger contusion,c_1044,Traumatología,Consulta
+Toe contusion,c_1045,Traumatología,Consulta
+Facial contusion,c_1046,Traumatología,Consulta
+Hip contusion,c_1047,Traumatología,Consulta
+Thigh contusion,c_1048,Traumatología,Consulta
+Ankle contusion,c_1049,Traumatología,Consulta
+Back or pelvic contusion,c_1050,Traumatología,Consulta
+Clavicle fracture,c_1051,Traumatología,Urgente
+"Trunk injury, unspecified location",c_1052,Traumatología,Consulta
+"Limb injury, unspecified location",c_1053,Traumatología,Consulta
+External ear injury,c_1054,Traumatología,Consulta
+Femur fracture,c_1055,Traumatología,Urgente
+Foot contusion,c_1056,Traumatología,Consulta
+Forearm bones fracture,c_1057,Traumatología,Urgente
+Mandible fracture,c_1060,Traumatología,Urgente
+Thorax contusion,c_1061,Traumatología,Consulta
+Toe fracture,c_1062,Traumatología,Urgente
+Physical injury of unknown location,c_1065,Traumatología,Consulta
+Humerus fracture,c_1070,Traumatología,Urgente
+Cholestasis of pregnancy,c_1071,Obstetricia,Consulta
+"Visual disturbance, unspecified",c_1073,Clínica Médica,Consulta
+Epilepsy without loss of consciousness,c_1074,Neurología,Consulta
+Epilepsy with loss of consciousness,c_1075,Neurología,Consulta
+Viral gastroenteritis,c_1076,Gastroenterología,Consulta
+Bacterial gastroenteritis,c_1077,Gastroenterología,Consulta
+Epiglottitis,c_1078,Clínica Médica,Consulta
+"Joint pain, unspecified",c_1083,Traumatología,Consulta
+Acute bronchiolitis,c_1084,Clínica Médica,Consulta
+Febrile seizures,c_1086,Neurología,Consulta
+Hand foot and mouth disease,c_1087,Clínica Médica,Consulta
+Infantile colic,c_1088,Clínica Médica,Consulta
+Teething,c_1090,Clínica Médica,Consulta
+Cradle cap,c_1091,Clínica Médica,Consulta
+Hyperbilirubinemia of the newborn,c_1092,Clínica Médica,Consulta
+Necrotizing enterocolitis,c_1093,Gastroenterología,Consulta
+Thalassemia,c_1094,Clínica Médica,Consulta
+Blunt abdominal trauma,c_1095,Traumatología,Consulta
+Penetrating abdominal trauma,c_1096,Traumatología,Consulta
+Acute lower limb ischemia,c_1097,Clínica Médica,Consulta
+Acute stress reaction,c_1098,Clínica Médica,Consulta
+Acute upper limb ischemia,c_1099,Clínica Médica,Consulta
+Psoriasis exacerbation,c_1100,Dermatología,Consulta
+Chlamydial genitourinary infection,c_1101,Infectología,Urgente
+Unstable tachyarrhythmia,c_1103,Cardiología,Consulta
+COVID-19,c_1105,Clínica Médica,Consulta
+Paraphimosis,c_1106,Clínica Médica,Consulta
+Phimosis,c_1107,Clínica Médica,Consulta
+Cervical radiculopathy,c_1108,Clínica Médica,Consulta
+Electrical injury,c_1109,Traumatología,Consulta
+Lip injury,c_1111,Traumatología,Consulta
+Chronic urticaria,c_1112,Dermatología,Consulta
+Neonatal conjunctivitis,c_1114,Clínica Médica,Consulta
+Nursing blister,c_1115,Clínica Médica,Consulta
+Croup,c_1116,Clínica Médica,Consulta
+Infantile hypertrophic pyloric stenosis,c_1117,Clínica Médica,Consulta
+Atypical pneumonia,c_1118,Neumonología,Consulta
+Congenital syphilis,c_1119,Clínica Médica,Consulta
+Dysplasia of the hip,c_1120,Clínica Médica,Consulta
+Breast asymmetry in adolescence,c_1121,Clínica Médica,Consulta
+Molluscum contagiosum,c_1122,Clínica Médica,Consulta
+Abnormal vaginal bleeding in adolescence,c_1123,Clínica Médica,Consulta
+Irregular menstruation in adolescence,c_1124,Ginecología,Consulta
+Intussusception,c_1125,Clínica Médica,Consulta
+Cauda equina syndrome,c_1126,Clínica Médica,Consulta
+Unstable bradyarrhythmia,c_1127,Cardiología,Consulta
+Stable tachyarrhythmia,c_1128,Cardiología,Consulta
+Suicidal tendencies,c_1130,Salud Mental,Consulta
+Orbital cellulitis,c_1131,Clínica Médica,Consulta
+Kawasaki disease,c_1132,Clínica Médica,Consulta
+Congenital heart disease,c_1133,Cardiología,Consulta
+Stable bradyarrhythmia,c_1134,Cardiología,Consulta
+Growing pains,c_1135,Clínica Médica,Consulta
+Supracondylar humerus fracture,c_1136,Traumatología,Urgente
+Roseola,c_1137,Clínica Médica,Consulta
+Muscular dystrophy,c_1139,Clínica Médica,Consulta
+Perthes disease,c_1140,Clínica Médica,Consulta
+Vitamin A deficiency,c_1141,Clínica Médica,Consulta
+Hemolytic disease of the newborn,c_1142,Clínica Médica,Consulta
+Nocturnal enuresis,c_1143,Clínica Médica,Consulta
+Hemophilia,c_1145,Hematología,Consulta
+Arrhythmia,c_1155,Cardiología,Consulta
+Multisystem inflammatory syndrome in children,c_1156,Clínica Médica,Consulta
+Vitamin K deficiency bleeding,c_1164,Clínica Médica,Consulta
+Acute viral rhinosinusitis,c_1166,Otorrinolaringología,Consulta
+Fetal alcohol syndrome,c_1167,Clínica Médica,Consulta
+Pilonidal cyst,c_1168,Clínica Médica,Consulta
+Conduct disorder,c_1170,Clínica Médica,Consulta
+Separation anxiety disorder,c_1171,Salud Mental,Consulta
+Acute bacterial rhinosinusitis,c_1172,Otorrinolaringología,Consulta
+Primary dysmenorrhoea,c_1173,Clínica Médica,Consulta
+Stress fracture of foot,c_1175,Traumatología,Urgente
+Stress fracture of lower leg,c_1176,Traumatología,Urgente
+Non-traumatic vertebral fracture,c_1177,Traumatología,Urgente
+Battered child syndrome,c_1178,Clínica Médica,Consulta
+Post-traumatic seizures,c_1179,Traumatología,Consulta
+Specific learning disability,c_1180,Otorrinolaringología,Consulta
+"Gynecomastia, unspecified",c_1181,Ginecología,Emergencia
+Post-COVID-19 syndrome,c_1182,Clínica Médica,Consulta
+Herpangina,c_1183,Cardiología,Consulta
+Foreign body in nose,c_1184,Clínica Médica,Consulta
+Umbilical granuloma,c_1185,Clínica Médica,Consulta
+Foreign body in ear,c_1187,Otorrinolaringología,Consulta
+Keloid,c_1188,Clínica Médica,Consulta
+Erythema toxicum,c_1189,Toxicología,Consulta
+Diabetic foot infection,c_1191,Infectología,Urgente
+Wound infection,c_1192,Infectología,Urgente
+Wound dehiscence,c_1193,Clínica Médica,Consulta
+Tonsillar hypertrophy,c_1195,Clínica Médica,Consulta
+Dental fluorosis,c_1197,Clínica Médica,Consulta
+Pityriasis rosea,c_1200,Clínica Médica,Consulta
+Infant dyschezia,c_1201,Clínica Médica,Consulta
+Heavy metal poisoning,c_1202,Toxicología,Urgente
+Hallux valgus,c_1203,Clínica Médica,Consulta
+Delayed onset muscle soreness,c_1204,Clínica Médica,Consulta
+Beeturia,c_1205,Clínica Médica,Consulta
+Neonatal jitteriness,c_1206,Clínica Médica,Consulta
+Crohn's disease exacerbation,c_1208,Clínica Médica,Consulta
+Ulcerative colitis exacerbation,c_1209,Gastroenterología,Consulta
+Geographic tongue,c_1210,Clínica Médica,Consulta
+Dentin hypersensitivity,c_1213,Inmunología Clínica,Consulta
+Psychological abuse,c_1214,Salud Mental,Consulta
+Erythroderma,c_1216,Clínica Médica,Consulta
+Adverse event following immunization,c_1217,Clínica Médica,Consulta
+Opioid withdrawal syndrome,c_1218,Clínica Médica,Consulta
+Cardiac syncope,c_1219,Clínica Médica,Urgente
+Malnutrition,c_1220,Nutrición,Consulta
+Erythema nodosum,c_1224,Clínica Médica,Consulta
+Trigeminal neuropathy,c_1229,Neurología,Consulta
+Narcolepsy,c_1230,Clínica Médica,Consulta
+Motion sickness,c_1231,Clínica Médica,Consulta
+Sleep related leg cramps,c_1232,Clínica Médica,Consulta
+Gastrointestinal complaints after iron intake,c_1234,Gastroenterología,Consulta
+Transient watery stools of breastfed,c_1235,Clínica Médica,Consulta
+Meteorosensitivity and meteoropathy,c_1236,Clínica Médica,Consulta
+Nevus simplex,c_1240,Clínica Médica,Consulta
+Frequent sneezing of newborn,c_1241,Clínica Médica,Consulta
+Bloating after certain types of food,c_1242,Clínica Médica,Consulta
+Hypnic jerks,c_1243,Clínica Médica,Consulta
+"Constipation, unspecified",c_1246,Clínica Médica,Consulta
+Aphthous stomatitis,c_1248,Clínica Médica,Consulta
+Retractile testicle,c_1250,Clínica Médica,Consulta
+Nocturnal emission,c_1252,Clínica Médica,Consulta
+Plugged milk duct,c_1254,Clínica Médica,Consulta
+Severe hypoglycemia,c_1256,Clínica Médica,Urgente
+Mild hypoglycemia,c_1257,Clínica Médica,Consulta
+Heterochromia,c_1259,Clínica Médica,Consulta
+Dental abscess,c_1260,Clínica Médica,Urgente
+Symptomatic apical periodontitis,c_1261,Clínica Médica,Consulta
+Traumatic oral ulcer,c_1262,Traumatología,Consulta
+"Hearing loss, unspecified",c_1263,Fonoaudiología,Consulta
+Complicated ovarian cyst,c_1265,Clínica Médica,Consulta
+Ovarian torsion,c_1267,Clínica Médica,Emergencia
+Oral lichen planus,c_1270,Clínica Médica,Consulta
+Recent-onset constipation,c_1272,Clínica Médica,Consulta
+Median rhomboid glossitis,c_1275,Clínica Médica,Consulta
+Oral mucocele,c_1276,Clínica Médica,Consulta
+Acute hepatitis C,c_1279,Gastroenterología,Consulta
+Snake bite,c_1281,Clínica Médica,Consulta
+Ross River disease,c_1282,Clínica Médica,Consulta
+Spider bite,c_1283,Clínica Médica,Consulta
+Congenital Zika virus disease,c_1285,Clínica Médica,Consulta
+Sexual abuse,c_1286,Clínica Médica,Consulta
+Japanese encephalitis,c_1288,Clínica Médica,Consulta
+Acute cannabinoid intoxication,c_1291,Toxicología,Urgente
+Adenoviral respiratory disease,c_1292,Neumonología,Consulta
+Herpetic gingivostomatitis,c_1293,Clínica Médica,Consulta
+Trachoma,c_1294,Clínica Médica,Consulta
+Chronic heart failure exacerbation,c_1295,Cardiología,Emergencia
+Monkeypox,c_1296,Clínica Médica,Consulta
+Adenoviral enteritis,c_1298,Infectología,Consulta
+Acute cholangitis,c_1303,Clínica Médica,Consulta
+Laryngopharyngeal reflux,c_1304,Clínica Médica,Consulta
+Allergic reactions to insect bite or sting,c_1305,Clínica Médica,Consulta
+Poorly controlled hypertension,c_1306,Cardiología,Consulta
+Marine animal injury,c_1308,Traumatología,Consulta
+Tick bite,c_1311,Clínica Médica,Consulta
+Postpartum blues,c_1315,Clínica Médica,Consulta
+Postpartum psychosis,c_1316,Salud Mental,Consulta
+Intracranial hematoma,c_1319,Hematología,Consulta
+Cholesteatoma,c_1322,Clínica Médica,Consulta
+Early Lyme disease,c_1323,Otorrinolaringología,Consulta
+Binge eating disorder,c_1325,Salud Mental,Consulta
+Late Lyme disease,c_1328,Clínica Médica,Consulta
+Dysthymia,c_1335,Clínica Médica,Consulta
+Cyclothymic disorder,c_1336,Clínica Médica,Consulta
+Respiratory Syncytial Virus infection,c_1337,Neumonología,Urgente
+Chronic HIV infection,c_1345,Infectología,Urgente
+Trichilemmal cyst,c_1356,Clínica Médica,Consulta
+Schizoaffective disorder,c_1357,Clínica Médica,Consulta
+Delusional disorder,c_1359,Clínica Médica,Consulta
+Acute and transient psychotic disorder,c_1361,Salud Mental,Consulta
+Burnout,c_1362,Clínica Médica,Consulta
+"Attention deficit hyperactivity disorder, inattentive type",c_1365,Clínica Médica,Consulta
+"Attention deficit hyperactivity disorder, hyperactive type",c_1366,Clínica Médica,Consulta
+Infantile hypoglycemia,c_1367,Clínica Médica,Consulta
+Hemolytic crisis,c_1369,Clínica Médica,Consulta
+Night-waking in early childhood,c_1373,Otorrinolaringología,Consulta
+Transient tic disorder,c_1376,Clínica Médica,Consulta
+Oppositional defiant disorder,c_1381,Clínica Médica,Consulta
+Stevens-Johnson syndrome,c_1389,Clínica Médica,Consulta
+Second trimester pregnancy,c_1403,Obstetricia,Consulta
+Secondary amenorrhea,c_1404,Ginecología,Consulta
+First trimester pregnancy,c_1405,Obstetricia,Consulta
+Non-specific chest pain,c_1406,Cardiología,Consulta
+Foreign body in vulva or vagina,c_1408,Clínica Médica,Consulta
+Developmental fears,c_1413,Salud Mental,Consulta
+Decreased fetal movements,c_1415,Clínica Médica,Consulta
+Cellulitis,c_1421,Clínica Médica,Consulta
+Secondary postpartum hemorrhage,c_1425,Clínica Médica,Emergencia
+Status epilepticus,c_1426,Clínica Médica,Consulta
+Tonic-clonic seizure,c_1427,Neurología,Consulta
+Foreign body in anus,c_1430,Clínica Médica,Consulta
+Premature rupture of membranes,c_1431,Clínica Médica,Emergencia
+Postpartum endometritis,c_1432,Clínica Médica,Consulta
+Preterm labour,c_1434,Clínica Médica,Consulta
+Paronychia of the fingernail,c_1435,Clínica Médica,Consulta
+Acute endometritis,c_1436,Clínica Médica,Consulta
+Paronychia of the toenail,c_1438,Clínica Médica,Consulta
+Neuroborreliosis,c_1439,Urología,Consulta
+Knee contusion,c_1442,Traumatología,Consulta
+Contusion of lower leg,c_1443,Traumatología,Consulta
+Thoracic radiculopathy,c_1444,Clínica Médica,Consulta
+Falls,c_1445,Clínica Médica,Consulta
+Lumbosacral radiculopathy,c_1448,Clínica Médica,Consulta
+Primary ciliary dyskinesia,c_1452,Dermatología,Consulta
+Protracted bacterial bronchitis,c_1453,Neumonología,Consulta
+Neck contusion,c_1454,Traumatología,Consulta
+Psychological crisis of adolescence,c_1457,Salud Mental,Consulta
+Inhalation injury,c_1461,Traumatología,Consulta
+Third trimester pregnancy,c_1466,Obstetricia,Consulta
+"Depressed mood, unspecified",c_1467,Salud Mental,Consulta
+"Elevated mood, unspecified",c_1468,Clínica Médica,Consulta
+Severe abdominal trauma,c_1471,Traumatología,Urgente
+Severe chest trauma,c_1472,Traumatología,Urgente
+Nipple changes due to breastfeeding,c_1476,Clínica Médica,Consulta
+Perioral dermatitis,c_1478,Dermatología,Consulta
+Hepatitis E,c_1483,Gastroenterología,Consulta
+Frostnip,c_1485,Clínica Médica,Consulta
+Decompensated cirrhosis of liver,c_1486,Gastroenterología,Consulta
+Possibly malignant liver mass,c_1492,Gastroenterología,Consulta
+Skin injury,c_1495,Dermatología,Consulta
+Hydrocephalus,c_1496,Clínica Médica,Consulta
+Hazardous alcohol use,c_1501,Clínica Médica,Consulta
+Harmful pattern of use of alcohol,c_1502,Clínica Médica,Consulta
+Shingles on the face,c_1503,Clínica Médica,Consulta
+Foreign body ingestion,c_1504,Clínica Médica,Consulta
+Possibly benign liver mass,c_1510,Gastroenterología,Consulta
+Alcoholic hepatitis,c_1512,Gastroenterología,Consulta
+Alcohol-associated steatotic liver disease,c_1513,Gastroenterología,Consulta
+Alcohol-associated cirrhosis of the liver,c_1514,Gastroenterología,Consulta
+Drug-induced liver injury,c_1516,Gastroenterología,Consulta
+Gallbladder tumor,c_1518,Urología,Consulta
+Hormonal IUD-related complications,c_1521,Clínica Médica,Consulta
+Non-hormonal IUD-related complications,c_1522,Clínica Médica,Consulta
+Heavy menstrual bleeding,c_1528,Ginecología,Consulta
+Avoidant restrictive food intake disorder,c_1538,Clínica Médica,Consulta
+Gender dysphoria,c_1539,Clínica Médica,Consulta
+Picky eating,c_1540,Clínica Médica,Consulta
+Hypoactive sexual desire disorder,c_1546,Clínica Médica,Consulta
+Ovarian hyperstimulation syndrome,c_1547,Clínica Médica,Consulta
+Compulsive sexual behaviour disorder,c_1548,Clínica Médica,Consulta
+Sexual pain disorder,c_1549,Clínica Médica,Consulta
+Erectile dysfunction,c_1550,Clínica Médica,Consulta
+Osgood-Schlatter disease,c_1551,Clínica Médica,Consulta
+Male orgasmic disorder,c_1552,Clínica Médica,Consulta
+Female orgasmic disorder,c_1553,Clínica Médica,Consulta
+Lochia,c_1555,Clínica Médica,Consulta
+Orthorexia nervosa,c_1557,Clínica Médica,Consulta
+Retrograde ejaculation,c_1562,Clínica Médica,Consulta
+Premature ejaculation,c_1563,Clínica Médica,Consulta
+Unspecified feeding or eating disorder,c_1564,Salud Mental,Consulta
+Juvenile idiopathic arthritis,c_1565,Reumatología,Consulta
+Incomplete induced abortion,c_1566,Clínica Médica,Consulta
+Septic abortion,c_1567,Clínica Médica,Consulta
+Normal course of abortion,c_1568,Clínica Médica,Consulta
+Vaginal bleeding after gynecological procedure,c_1570,Ginecología,Consulta
+Vitreous floaters,c_1572,Clínica Médica,Consulta
+Eyelid myokymia,c_1574,Oftalmología,Consulta
+Benign essential blepharospasm,c_1577,Clínica Médica,Consulta
+"Upper limb pain, unspecified",c_1580,Clínica Médica,Consulta
+"Lower limb pain, unspecified",c_1581,Clínica Médica,Consulta
+Head or neck mass,c_1584,Clínica Médica,Consulta
+Abdominal or pelvic mass,c_1585,Clínica Médica,Consulta
+Thoracic mass,c_1586,Clínica Médica,Consulta
+Complication of chemotherapy,c_1588,Clínica Médica,Consulta
+Hypercalcemia of malignancy,c_1589,Clínica Médica,Consulta
+Radiation-induced dermatitis,c_1591,Dermatología,Consulta
+Actinic keratosis,c_1592,Clínica Médica,Consulta
+Lymphadenopathy of unknown origin,c_1593,Clínica Médica,Consulta
+Chemotherapy-induced peripheral neuropathy,c_1594,Neurología,Consulta
+Acute radiation cystitis,c_1596,Clínica Médica,Consulta
+Orbital tumor,c_1598,Clínica Médica,Consulta
+Human bite,c_1600,Clínica Médica,Consulta
+Postpartum sexual dysfunction,c_1601,Clínica Médica,Consulta
+Myometrial tumor,c_1603,Clínica Médica,Consulta
+Oral lichenoid reaction,c_1605,Clínica Médica,Consulta
+Tumor of pharynx,c_1607,Clínica Médica,Consulta
+Upper limb tumor,c_1608,Clínica Médica,Consulta
+Lower limb tumor,c_1609,Clínica Médica,Consulta
+Tumor of oral cavity,c_1610,Clínica Médica,Consulta
+Neuroleptic malignant syndrome,c_1612,Urología,Consulta
+Serotonin syndrome,c_1613,Clínica Médica,Consulta
+Neutropenic fever,c_1616,Clínica Médica,Consulta
+Penile tumor,c_1618,Clínica Médica,Consulta
+Tumor of lip,c_1619,Clínica Médica,Consulta
+Eyelid injury,c_1620,Oftalmología,Consulta
+Subconjunctival haemorrhage,c_1621,Clínica Médica,Consulta
+Demodicosis,c_1622,Clínica Médica,Consulta
+Cardiac tumor,c_1624,Clínica Médica,Consulta
+Alcohol-induced mental and behavioral disorders,c_1626,Salud Mental,Consulta
+Postinfectious cough,c_1628,Clínica Médica,Consulta
+Prolonged postinfectious cough,c_1629,Clínica Médica,Consulta
+Eye burn,c_1630,Oftalmología,Consulta
+Severe dehydration,c_1631,Clínica Médica,Urgente
+Generalized neoplastic disease,c_1633,Clínica Médica,Consulta
+Mediastinal tumor,c_1634,Clínica Médica,Consulta
+Cannabinoid-induced mental and behavioral disorders,c_1637,Salud Mental,Consulta
+Convergent strabismus,c_1639,Clínica Médica,Consulta
+Upper airway cough syndrome,c_1640,Clínica Médica,Consulta
+Minor eye injury,c_1641,Oftalmología,Consulta
+Serious eye injury,c_1642,Oftalmología,Consulta
+Divergent strabismus,c_1645,Clínica Médica,Consulta
+Non-asthmatic eosinophilic bronchitis,c_1646,Neumonología,Consulta
+Cough caused by airway irritants,c_1658,Clínica Médica,Consulta
+Serious overdose of prescribed medication,c_1664,Toxicología,Consulta
+"Overdose of prescribed medication, unspecified",c_1665,Toxicología,Consulta
+Loose plaster cast,c_1667,Clínica Médica,Consulta
+Too tight plaster cast,c_1668,Clínica Médica,Consulta
+Cervical tumor,c_1672,Clínica Médica,Consulta
+Non-celiac gluten sensitivity,c_1674,Gastroenterología,Consulta
+Infection under plaster cast,c_1676,Infectología,Urgente
+Plaster cast concerns,c_1677,Clínica Médica,Consulta

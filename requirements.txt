@@ -1,0 +1,5 @@
+streamlit
+pandas
+requests
+supabase==1.0.3
+bcrypt
