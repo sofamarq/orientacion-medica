@@ -87,5 +87,5 @@ def login():
     
                 st.success("✅ Registro exitoso. Redirigiendo al login...")
                 time.sleep(3)
-                st.session_state.vista_actual = "Inicio"
+                st.session_state.menu = "Inicio"
                 st.rerun()
