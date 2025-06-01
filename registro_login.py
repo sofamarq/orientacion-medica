@@ -2,6 +2,7 @@ import streamlit as st
 import datetime
 from supabase_connection import supabase
 from utils import hash_password, verify_password
+import time
 
 def login():
     st.title("Bienvenido a la App de Orientación Médica Inicial (sin nombre)")
