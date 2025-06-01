@@ -85,7 +85,5 @@ def login():
                     "password": hash_password(password_registro)
                 }).execute()
     
-                st.success("✅ Registro exitoso. Redirigiendo al login...")
-                time.sleep(3)
-                #st.session_state.menu = "Inicio"
+                st.success("✅ Registro exitoso. Ya podes iniciar sesión!")
                 st.rerun()
