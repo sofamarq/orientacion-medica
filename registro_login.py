@@ -84,5 +84,6 @@ def login():
             }).execute()
 
             st.success("✅ Registro exitoso. Redirigiendo al login...")
+            time.sleep(3)
             st.session_state.vista_actual = "Inicio"
             st.rerun()
